@@ -1,12 +1,14 @@
 # ApartmentRankers
 
 
-Step 1:
+###Step 1:
 Launch the virtualenv
-  Mac:
+  * Mac:
   source env/bin/activate
-  Windows:
+  * Windows:
   source env/Scripts/activate
+  
+  
 (To deactivate, run "deactivate")
 
 
