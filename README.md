@@ -1,7 +1,7 @@
 # ApartmentRankers
 
 
-###Step 1:
+Step 1:
 Launch the virtualenv
   * Mac:
   source env/bin/activate
